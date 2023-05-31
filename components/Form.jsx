@@ -42,7 +42,7 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
 						onChange={(e) =>
 							setPost({
 								...post,
-								tag,
+								tag: e.target.value,
 							})
 						}
 						placeholder="#tag"
