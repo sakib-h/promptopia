@@ -40,7 +40,7 @@ const Nav = () => {
 						<Link
 							href="/create-prompt"
 							className="black_btn">
-							Create Post
+							Create Prompt
 						</Link>
 
 						<button
