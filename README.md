@@ -1,1 +1,3 @@
 Live URL: https://promptopia-sakib-h.vercel.app/
+
+Full-stack next 13.4 Project with CRUD operations, api building and many more...
